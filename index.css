@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-cont{
+    color: white;
+    width: 80%;
+    /* height: 100vh; */
+    margin: 50px auto;
+    display: grid;
+    grid-template-rows: 150px 150px;
+    grid-template-columns: 1fr 1fr 1fr ;
+    row-gap: 90px;
+    column-gap: 90px;
+
+
+}
+.div1{
+    background-color: blue;
+}
+.div2{
+    background-color: black;
+}
+.div3{
+    background-color: red;
+}
+.div4{
+    background-color: pink;
+}
+.div5{
+    background-color: yellow;
+}
+.div6{
+    background-color: yellowgreen;
+}
