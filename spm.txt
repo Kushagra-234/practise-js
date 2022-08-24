@@ -1,0 +1,15 @@
+qua;ity of design matteer kerta hai 
+quality of conformance mtlb jo kaam user ne diya tha uske kitne kareeb bana haiquality of use mtlb use krne ke baad kya qualitybahutnjldi degreadre to nhi o rhi kahi 
+
+
+sdlc hota hai software deve life cyle isme ye hota hai ki software ki puri lifecyle define hori hai ki wi aoninpuri life cyvle me kya krta hai 
+kya nhi iske 5 gfaves hai au rye pirvtorial repsuetakon hota ha 
+pehla face requitement isme reuaie mpta vhakti hai kya hai jo hori haiuss hisaab se kaam hota hai '2 phase 
+hai desihning 
+3 hai testing buf nijaaljejate hai aur unhe rheke kiya tjanaha ia
+/4 hai depltiment gfie deplty hota hai 
+y6 hai maintaninavw eoutopur pf 1 id drs software requirement definition 
+2 hotshai hai dfd 
+3 ka hita ha outuput program 
+4 code without bug '
+5 

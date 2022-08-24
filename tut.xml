@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+     <!DOCTYPE books SYSTEM "books.dtd">
+
+       <?xml-stylesheet type="text/css" href="book.css"?>
+     <books>
+     <heading>XML WITH CSS</heading>
+     <book>
+       <title>DBMS book</title>
+     <author>Kushagra</author>
+        <publisher>ABC</publisher>
+         <edition>2nd</edition>
+     <price>5000</price>
+
+  </book>
+
+    <book>
+
+    <bookname>WEBTEC BOOK</bookname>
+  <author>RD sharma</author>
+        <publisher>THM</publisher>
+          <edition>1st</edition>
+             <price>6000</price>
+                  </book>
+                      </books>

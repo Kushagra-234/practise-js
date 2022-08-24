@@ -1,11 +1,11 @@
-// fetch("https://jsonplaceholder.typicode.com/todos/1")
+fetch("https://jsonplaceholder.typicode.com/todos/1")
 
-// .then((res)=>{
-//     return res.json
-// }).then((data)=>{
-// console.log(data);
+.then((res)=>{
+    return res.json
+}).then((data)=>{
+console.log(data);
 
-// })
+})
 
 
 
@@ -26,9 +26,18 @@
 //     })
 //     // string ko stringify nhi kr skte jabki json ko stringify krna sahi rhta hai 
 // }).then(res=>res.json())
+// // .then(data=>console.log(data))fetch('https://jsonplaceholder.typicode.com/todos/1',{
+//     method:'POST',
+//     headers:{
+//         'Content-type':'application/json'
+//     },
+//     body:JSON.stringify({
+//         id:'2'
+//     })
+//     // string ko stringify nhi kr skte jabki json ko stringify krna sahi rhta hai 
+// }).then(res=>res.json())
 // .then(data=>console.log(data))
-
-
+// 
 // 
 
 
