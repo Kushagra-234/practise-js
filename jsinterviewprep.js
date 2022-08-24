@@ -44,3 +44,5 @@ var object=Object.create({
 
     apply me kuch nhi hota bas dusra parameter as array list bhej dete hai
     aur bind me copy bna lete hai jisko baad me invoke kiya jaa ske 
+
+    this is difference between  call,bind and apply
