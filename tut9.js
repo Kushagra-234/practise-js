@@ -23,28 +23,26 @@
 // hello(3,4);
 
 var p=new Promise((resolve,reject)=>{
-    let a=1+4;
+    let a=1+1;
 
-    if(a==2){
+    if(a==3){
 
         resolve();
        
         
     }else{
-        reject("error");
+        reject();
     }
 
 
 })
 
 p.then(()=>{
-     let a=3;
-     let b=5;
-     console.log(a+b);
+    console.log("sahi hai ");
 
+}).catch(()=>{
+    console.log("helloerror");
 
-}).catch((message)=>{
-    console.log("hello" + message );
 })
 
 

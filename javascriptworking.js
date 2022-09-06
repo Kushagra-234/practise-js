@@ -45,3 +45,6 @@
 
 // a();
 // temporal deadzone me chale jaate hai let aur const ye global scope me nhi hote mtlb 
+// temporal deadzone me jaane se jo let hota hai wo fas jaata hai between temporal 
+// theek fas jaaega 
+// isse hame theek krna pdhta hai 
