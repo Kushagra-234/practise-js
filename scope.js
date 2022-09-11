@@ -7,6 +7,7 @@ console.log(msg);
 
 for(var i=0;i<5;i++){
     var msg="bcda"
+    console.log(msg);
 }
 
 console.log(msg);
@@ -20,5 +21,5 @@ for( let hero of arr){
 // array me for of use hota hai 
 const ary={fname:"kush",lname:"gupta",mname:"kumar",gname:"agar"};
 for( let hero in ary){
-    console.log(`${hero}`);
+    console.log(hero.fname);
 }
