@@ -22,4 +22,5 @@ for( let hero of arr){
 const ary={fname:"kush",lname:"gupta",mname:"kumar",gname:"agar"};
 for( let hero in ary){
     console.log(hero.fname);
+    
 }
