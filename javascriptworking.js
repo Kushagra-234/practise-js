@@ -48,3 +48,6 @@
 // temporal deadzone me jaane se jo let hota hai wo fas jaata hai between temporal 
 // theek fas jaaega 
 // isse hame theek krna pdhta hai 
+
+// the ability of a function to be used inside a value and be passed as a argument is known as first class function
+// treated as value 

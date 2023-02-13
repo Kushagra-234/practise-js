@@ -17,3 +17,16 @@ async function loaduser(){
 
 loaduser()
 .then(jsondata=>console.log(jsondata))
+
+
+const hello=()=>{
+    console.log("hello");
+
+    // prototype is an object which gets attached to our original object by which we can acces some objects
+    // chain of prototypes is object prototype 
+    // hello.
+}
+
+useEffect(()=>{
+
+},[])
